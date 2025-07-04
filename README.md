@@ -74,9 +74,9 @@ My journey is a blend of technical rigor, creative exploration, and strategic le
 ---
 
 ## 🏆 **GitHub Stats and Trophies**  
-![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT69godYash&show_icons=true&theme=tokyonight)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=IT69godYash&theme=darkhub)  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it69godyash&" alt="it69godyash" /></p>
+![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiraj-mishra&show_icons=true&theme=tokyonight)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhiraj-mishra&theme=darkhub)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj-mishra&" alt="abhiraj-mishra" /></p>
 
 ---
 
