@@ -5,21 +5,10 @@
 
 <img src="https://abhiraj06.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-07-201200.png" align="center" height="250" />
 
-# Hi 👋, I'm Abhiraj Mishra  
-**A passionate developer from India**  
+# Hi 👋, I'm Abhiraj Mishra
 
 <h3 align="justify">
-    I am a passionate and driven Computer Science Engineering (CSE) student at Maharaja Agrasen Institute of Technology (MAIT), Delhi. My journey in the tech world has been marked by a deep fascination with coding, system development, and problem-solving. I am currently focused on mastering full-stack web development and backend engineering, with a long-term goal of excelling in competitive placements and creating groundbreaking projects.<br /><br />
-    
-My technical stack is diverse and constantly evolving. I have built a strong foundation in languages like C, C++, Python, and JavaScript, and I am well-versed in frameworks and tools such as React, Node.js, Django, Docker, and Kubernetes. I have also explored hardware-based development with Arduino and Raspberry Pi, expanding my understanding of system-level programming.<br /><br />
-    
-Professionally, I am actively involved in hackathons, often taking the lead in backend development and product management. My strategic mindset and ability to coordinate teams have been key to delivering successful projects under tight deadlines. I have showcased my development skills through projects like my personal portfolio website and full-stack applications, demonstrating my ability to integrate frontend, backend, and cloud technologies.<br /><br />
-    
-My academic journey is complemented by my strong interest in competitive programming and data structures and algorithms (DSA). I am committed to sharpening my problem-solving skills, aiming to stand out in my college's competitive placement scene.<br /><br />
-    
-Beyond coding, I am an NCC cadet, embodying discipline and leadership in both my academic and personal life. My creative side finds expression in gaming and experimenting with design tools like Figma and Canva. Gaming, especially Valorant, fuels my competitive spirit and strategic thinking, which translates into my approach to coding and project development.<br /><br />
-    
-My journey is a blend of technical rigor, creative exploration, and strategic leadership. I am driven by a vision to not just be part of the tech industry — but to redefine it with innovation and excellence.<br /><br />
+    I break computers, then fix them just to break them better. Code is my playground and occasionally my nemesis. I build things, ship mistakes, learn, repeat. If it runs fast, secure, and scalable, great. If it crashes spectacularly, even better. Curiosity fuels me. Improvement keeps me obsessed<br /><br />
 </h3>
 
 
